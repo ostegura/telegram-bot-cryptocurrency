@@ -94,7 +94,7 @@ def index():
     return '<h1>Bot welcomes you.</h1>'
 
 
-# https://api.telegram.org/botprivate/setWebhook?url=https://ostegura88.pythonanywhere.com/
+# https://api.telegram.org/botprivate/setWebhook?url=https://xxxxxxxxx.pythonanywhere.com/
 
 
 # def main():
