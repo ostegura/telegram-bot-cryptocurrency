@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bitcoin",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "rank": "1",
+    "price_usd": "6635.21433811",
+    "price_btc": "1.0",
+    "24h_volume_usd": "3819971880.14",
+    "market_cap_usd": "114872061971",
+    "available_supply": "17312487.0",
+    "total_supply": "17312487.0",
+    "max_supply": "21000000.0",
+    "percent_change_1h": "-0.03",
+    "percent_change_24h": "0.59",
+    "percent_change_7d": "0.81",
+    "last_updated": "1539080660"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "update_id": 495218813,
+  "message": {
+    "message_id": 43,
+    "from": {
+      "id": 340470924,
+      "is_bot": false,
+      "first_name": "Oleksandr",
+      "last_name": "Stegura",
+      "username": "OleksandrStegura",
+      "language_code": "ru-RU"
+    },
+    "chat": {
+      "id": 340470924,
+      "first_name": "Oleksandr",
+      "last_name": "Stegura",
+      "username": "OleksandrStegura",
+      "type": "private"
+    },
+    "date": 1539077706,
+    "text": "hello 2018"
+  }
+}
